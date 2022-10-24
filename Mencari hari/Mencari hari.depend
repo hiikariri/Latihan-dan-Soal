@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665072900 source:d:\its\matkul\codeblocks\bantu marsya\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
